@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: green;
+    margin-left: 380px;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+input{
+    height: 25px;
+    width: 200px;
+    margin-left:550px;
+    border: black;
+    border-radius: 5px ;
+}
+
+button{
+    height: 26px;
+    width: 80px;
+    color: red;
+    border-radius: 5px;
+} 
+
